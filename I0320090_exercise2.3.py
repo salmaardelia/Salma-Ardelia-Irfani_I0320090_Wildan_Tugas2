@@ -16,3 +16,5 @@ keliling_lingkaran = 2 * 3.14 * r
 print("Luas lingkaran: ", luas_lingkaran)
 print("Keliling lingkaran: ", keliling_lingkaran)
 
+
+
