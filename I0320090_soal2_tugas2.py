@@ -1,5 +1,4 @@
 #Biodata
-
 Nama_lengkap = "Salma Ardelia Irfani"
 Nama_panggilan = "Salma"
 Tempat_lahir = "Karanganyar"
